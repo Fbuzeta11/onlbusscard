@@ -1,7 +1,7 @@
 
   .text-center {
-    font-family: 'Architects Daughter', cursive;
-    font-size: 52px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
     color: white;
     text-align: center;
     padding-bottom: 4px;
@@ -10,6 +10,10 @@
   .dark-background {
     background-color: #1E1E1E;
     color: white;
+  }
+
+  ol {
+    color: gold;
   }
 
   ul ol {
