@@ -3,11 +3,15 @@
   }
 
 
-  h1, h2, .colored-text {
+  h1, h2, p {
     font-family: 'Architects Daughter', cursive;
     font-size: 52px;
-    color: #3f4c66;
+    color: white;
     text-align: center;
     padding-bottom: 4px;
-    border-bottom: 3px solid #3f4c66;
+  }
+
+  .dark-background {
+    background-color: #1E1E1E;
+    color: white;
   }
