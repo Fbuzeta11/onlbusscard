@@ -1,9 +1,5 @@
-.text-center {
-    text-align: center;
-  }
 
-
-  h1, h2, p {
+  .text-center {
     font-family: 'Architects Daughter', cursive;
     font-size: 52px;
     color: white;
@@ -14,4 +10,9 @@
   .dark-background {
     background-color: #1E1E1E;
     color: white;
+  }
+
+  ul ol {
+    text-align: center;
+    list-style-position: inside
   }
