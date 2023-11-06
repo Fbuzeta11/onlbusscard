@@ -34,7 +34,7 @@ p {
     list-style-position: inside;
   }
 
-  
+  /*pseudo-classes*/
   a:link {
   color: red;
   }
@@ -51,6 +51,5 @@ p {
 
 
   a:active {
-
   color: blue;
   }
